@@ -7,4 +7,10 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'dCollapse';
+  data = [
+    {id: 1, name: "deneme1"},
+    {id: 2, name: "deneme2"},
+    {id: 3, name: "deneme3"}
+  ]
+
 }
